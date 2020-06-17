@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMPYSTRSsCmh1x+dwSOERLAPphvar/8PbZVVIX9uNUdbtVi2QgE8gWs+FpcdeGJ9hhUUJpPH3GKFvdBSpxzdTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian\\Source\\Repos\\WordpressTest\\WordpressTest\\WordpressTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\wordpresspcl\\1.5.0\\wordpresspcl.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
